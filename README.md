@@ -1,6 +1,6 @@
-# Java OOP Practice ☕
+# Java OOP Practice
 
-A collection of Java projects demonstrating the core principles of **Object-Oriented Programming (OOP)** through practical, real-world implementations.
+A collection of Java projects demonstrating the core principles of Object-Oriented Programming (OOP) through practical, real-world implementations.
 
 ## OOP Concepts
 
