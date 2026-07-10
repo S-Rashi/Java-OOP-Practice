@@ -1,16 +1,23 @@
 /*
+ * ============================================================
  * Project: Smart Home Automation System
+ * ============================================================
  *
  * Description:
- * Demonstrates abstraction in Java using an abstract class
- * and multiple subclasses representing smart home devices.
+ * This project simulates a smart home where different devices
+ * such as a Smart Light, Smart Fan, and Smart Air Conditioner
+ * share common properties through an abstract class
+ * (SmartDevice). Each device provides its own implementation
+ * of turning ON and OFF, demonstrating abstraction in Java.
  *
- * Concepts Used:
+ * Key Concepts:
  * - Abstract Class
  * - Abstract Methods
+ * - Inheritance
  * - Method Overriding
  * - Runtime Polymorphism
- *
+ 
+ * ============================================================
  */
 package OOPs.Abstraction;
 abstract class SmartDevice {
